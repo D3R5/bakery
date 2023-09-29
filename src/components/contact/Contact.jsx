@@ -148,23 +148,23 @@ function Contact() {
                     <MdOutlineEmail className="icon" />
                     <h4>Email</h4>
                     <h6 className="email">diegoesteban.ders@gmail.com</h6>
-                    <a href="mailto:diegoesteban.ders@gmail.com">
+                    <Link to="mailto:diegoesteban.ders@gmail.com" target="blank">
                       Envíanos un mensaje
-                    </a>
+                    </Link>
                   </article>
                   <article className="col-md-4 contact__option">
                     <FiInstagram className="icon" />
                     <h4>Instagram</h4>
                     <h5>diegooders</h5>
-                    <a href="https://www.instagram.com/diegooders/">
+                    <Link to="https://www.instagram.com/diegooders/" target="blank">
                       Envíanos un mensaje
-                    </a>
+                    </Link>
                   </article>
                   <article className="col-md-4 contact__option">
                     <BsWhatsapp className="icon" />
                     <h4>WhatsApp</h4>
                     <h5>+56972893848</h5>
-                    <a href="https://wa.me/56972893848">Envíanos un mensaje</a>
+                    <Link to="https://wa.me/56972893848" target="blank">Envíanos un mensaje</Link>
                   </article>
                 </div>
 
@@ -229,7 +229,7 @@ function Contact() {
       </section>
       <footer className="footer text-faded text-center py-5">
         <div className="container">
-          <p className="m-0 small">Copyright &copy; Your Website 2023</p>
+          <p className="m-0 small">&copy; DERS <Link to="https://github.com/D3R5" target='blank' title='DERS'>Github</Link></p>
         </div>
       </footer>
     </div>

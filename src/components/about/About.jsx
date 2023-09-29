@@ -51,7 +51,7 @@ function About() {
             </div>
         </section>
         <footer className="footer text-faded text-center py-5">
-            <div className="container"><p className="m-0 small">Copyright &copy; Your Website 2023</p></div>
+            <div className="container"><p className="m-0 small">&copy; DERS <Link to="https://github.com/D3R5" target='blank' title='DERS'>Github</Link></p></div>
         </footer>
     </div>
   )
