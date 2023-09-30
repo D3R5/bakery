@@ -15,7 +15,7 @@ function About() {
         {/* Navigation */}
         <nav className="navbar navbar-expand-lg navbar-dark py-lg-4" id="mainNav">
             <div className="container">
-                <Link className="navbar-brand text-uppercase fw-bold d-lg-none" to="index.html">Start Bootstrap</Link>
+                
                 <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span className="navbar-toggler-icon"></span></button>
                 <div className="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul className="navbar-nav mx-auto">
@@ -35,14 +35,14 @@ function About() {
                         <div className="col-xl-9 col-lg-10 mx-auto">
                             <div className="bg-faded rounded p-5">
                                 <h2 className="section-heading mb-4">
-                                    <span className="section-heading-upper">Strong Coffee, Strong Roots</span>
-                                    <span className="section-heading-lower">About Our Cafe</span>
+                                    <span className="section-heading-upper">Hummer, Misha</span>
+                                    <span className="section-heading-lower">Clio</span>
                                 </h2>
-                                <p>Founded in 1987 by the Hernandez brothers, our establishment has been serving up rich coffee sourced from artisan farmers in various regions of South and Central America. We are dedicated to travelling the world, finding the best coffee, and bringing back to you here in our cafe.</p>
+                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis, unde. Corporis omnis, perferendis similique impedit magni aliquid incidunt, optio maiores eligendi reiciendis a error nostrum commodi consectetur ad quidem veniam?</p>
                                 <p className="mb-0">
                                     We guarantee that you will fall in
                                     <em>lust</em>
-                                    with our decadent blends the moment you walk inside until you finish your last sip. Join us for your daily routine, an outing with friends, or simply just to enjoy some alone time.
+                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur ex atque sunt reiciendis at. Sed ut ab, in repellat voluptatem, dicta magni praesentium illum quibusdam non vero, accusamus dolorem porro?
                                 </p>
                             </div>
                         </div>

@@ -15,7 +15,6 @@ const App = () => {
             </header>
             <nav className="navbar navbar-expand-lg navbar-dark py-lg-4" id="mainNav">
                 <div className="container">
-                    <Link className="navbar-brand text-uppercase fw-bold d-lg-none" to="index.html">Start Bootstrap</Link>
                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                         <span className="navbar-toggler-icon"></span>
                     </button>
@@ -38,7 +37,7 @@ const App = () => {
                                 <span className="section-heading-upper">Fresh Coffee</span>
                                 <span className="section-heading-lower">Worth Drinking</span>
                             </h2>
-                            <p className="mb-3">Every cup of our quality artisan coffee starts with locally sourced, hand-picked ingredients. Once you try it, our coffee will be a blissful addition to your everyday morning routine - we guarantee it!</p>
+                            <p className="mb-3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos similique quod saepe ullam, at fugiat, tenetur ipsum, voluptatem quos modi sunt esse officia harum quam. Nemo voluptatem repudiandae dolorum nostrum!</p>
                             <div className="intro-button mx-auto"><Link className="btn btn-primary btn-xl" to="/contacto">Háblanos!</Link></div>
                         </div>
                     </div>
@@ -53,7 +52,7 @@ const App = () => {
                                     <span className="section-heading-upper">Our Promise</span>
                                     <span className="section-heading-lower">To You</span>
                                 </h2>
-                                <p className="mb-0">When you walk into our shop to start your day, we are dedicated to providing you with friendly service, a welcoming atmosphere, and above all else, excellent products made with the highest quality ingredients. If you are not satisfied, please let us know and we will do whatever we can to make things right!</p>
+                                <p className="mb-0">Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur quis, temporibus libero, iste molestias nisi asperiores esse in, est magnam maxime? Beatae enim libero itaque, nemo neque reprehenderit iusto iure.</p>
                             </div>
                         </div>
                     </div>

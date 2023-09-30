@@ -44,12 +44,7 @@ function Contact() {
       {/* <!-- Navigation--> */}
       <nav className="navbar navbar-expand-lg navbar-dark py-lg-4" id="mainNav">
         <div className="container">
-          <Link
-            className="navbar-brand text-uppercase fw-bold d-lg-none"
-            to="index.html"
-          >
-            Start Bootstrap
-          </Link>
+          
           <button
             className="navbar-toggler"
             type="button"
@@ -200,26 +195,19 @@ function Contact() {
                 <div className="bg-faded rounded p-5">
                   <h2 className="section-heading mb-4">
                     <span className="section-heading-upper">
-                      Strong Coffee, Strong Roots
+                      Hummer, Misha
                     </span>
                     <span className="section-heading-lower">
-                      About Our Cafe
+                      Clio
                     </span>
                   </h2>
                   <p>
-                    Founded in 1987 by the Hernandez brothers, our establishment
-                    has been serving up rich coffee sourced from artisan farmers
-                    in various regions of South and Central America. We are
-                    dedicated to travelling the world, finding the best coffee,
-                    and bringing back to you here in our cafe.
+                   Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sunt dolore facere blanditiis molestiae, provident voluptatibus facilis est vitae tempora sapiente inventore earum iusto quaerat natus nemo? Inventore velit ullam saepe!
                   </p>
                   <p className="mb-0">
                     We guarantee that you will fall in
                     <em>lust</em>
-                    with our decadent blends the moment you walk inside until
-                    you finish your last sip. Join us for your daily routine, an
-                    outing with friends, or simply just to enjoy some alone
-                    time.
+                    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Saepe harum, nisi amet eius a odit mollitia perspiciatis quas officiis sunt earum nesciunt id quod velit! Sequi esse laboriosam ut. Magni?
                   </p>
                 </div>
               </div>

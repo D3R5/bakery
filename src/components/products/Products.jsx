@@ -18,7 +18,6 @@ function Products() {
         {/* <!-- Navigation--> */}
         <nav className="navbar navbar-expand-lg navbar-dark py-lg-4" id="mainNav">
             <div className="container">
-                <Link className="navbar-brand text-uppercase fw-bold d-lg-none" to="index.html">Start Bootstrap</Link>
                 <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span className="navbar-toggler-icon"></span></button>
                 <div className="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul className="navbar-nav mx-auto">
@@ -43,7 +42,7 @@ function Products() {
                     </div>
                     <img className="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0" src={producto1} alt="..." />
                     <div className="product-item-description d-flex me-auto">
-                        <div className="bg-faded p-5 rounded"><p className="mb-0">We take pride in our work, and it shows. Every time you order Link beverage from us, we guarantee that it will be an experience worth having. Whether it's our world famous Venezuelan Cappuccino, Link refreshing iced herbal tea, or something as simple as Link cup of speciality sourced black coffee, you will be coming back for more.</p></div>
+                        <div className="bg-faded p-5 rounded"><p className="mb-0">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Rerum dolores quam quisquam, atque modi quae accusamus fuga eveniet doloremque, maxime officia est itaque exercitationem ea pariatur? Quam quia commodi necessitatibus!</p></div>
                     </div>
                 </div>
             </div>
@@ -61,7 +60,7 @@ function Products() {
                     </div>
                     <img className="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0" src={producto2} alt="..." />
                     <div className="product-item-description d-flex ms-auto">
-                        <div className="bg-faded p-5 rounded"><p className="mb-0">Our seasonal menu features delicious snacks, baked goods, and even full meals perfect for breakfast or lunchtime. We source our ingredients from local, oragnic farms whenever possible, alongside premium vendors for specialty goods.</p></div>
+                        <div className="bg-faded p-5 rounded"><p className="mb-0">Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum, voluptatem, libero ullam repellendus, vero neque impedit molestiae soluta hic quod quae. Recusandae reprehenderit amet, repudiandae explicabo dolorem aut impedit quia!</p></div>
                     </div>
                 </div>
             </div>
@@ -79,7 +78,7 @@ function Products() {
                     </div>
                     <img className="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0" src={producto3} alt="..." />
                     <div className="product-item-description d-flex me-auto">
-                        <div className="bg-faded p-5 rounded"><p className="mb-0">Travelling the world for the very best quality coffee is something take pride in. When you visit us, you'll always find new blends from around the world, mainly from regions in Central and South America. We sell our blends in smaller to large bulk quantities. Please visit us in person for more details.</p></div>
+                        <div className="bg-faded p-5 rounded"><p className="mb-0">Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam sed beatae, aspernatur dolores vel optio nobis consectetur recusandae non corrupti fuga. Error, repellat excepturi culpa accusantium molestiae voluptatum quae earum?</p></div>
                     </div>
                 </div>
             </div>
